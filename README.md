@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47j4tt9z58gihc3bvjpg5j7c4og2eoa9n49ncoa0so&rid=giphy.gif&ct=g" width=300 align="right">
+<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47j4tt9z58gihc3bvjpg5j7c4og2eoa9n49ncoa0so&rid=giphy.gif&ct=g" width=350 align="right">
 
 ### Hi 👋 I'm Orkun.
 ### I :heart: Coding
