@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47j4tt9z58gihc3bvjpg5j7c4og2eoa9n49ncoa0so&rid=giphy.gif&ct=g">
+<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47j4tt9z58gihc3bvjpg5j7c4og2eoa9n49ncoa0so&rid=giphy.gif&ct=g" align="right">
 
 ### Hi 👋 I'm Orkun.
 ### I :heart: Coding
@@ -18,8 +18,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=25 height=25 align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=25 height=25 align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=25 height=25 align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Orkunnnn&show_icons=true&count_private=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkunnnn&hide=Java">
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Orkunnnn&show_icons=true&count_private=true&theme=dracula" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkunnnn&hide=Java" align="left">
 
 [twitter]:https://twitter.com/KonakOrkun
 [linkedin]:https://www.linkedin.com/in/orkunkonak/
