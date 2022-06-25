@@ -23,8 +23,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Orkunnnn&show_icons=true&count_private=true&theme=dracula" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkunnnn&hide=Java" align="left">
 
-[twitter]:https://twitter.com/KonakOrkun
-[linkedin]:https://www.linkedin.com/in/orkunkonak/
+[twitter]:(https://twitter.com/KonakOrkun){:target="_blank"}
+[linkedin]:(https://www.linkedin.com/in/orkunkonak/){:target="_blank"}
 <!--
 **Orkunnnn/Orkunnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
