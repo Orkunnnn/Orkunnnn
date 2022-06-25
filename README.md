@@ -6,9 +6,9 @@
 
 ### Reach out to me
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />
-][twitter]
+][twitter]{:target="_blank"}
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
-][linkedin]
+][linkedin]{:target="_blank"}
 <br>
 
 ### Technologies that I use
@@ -23,8 +23,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Orkunnnn&show_icons=true&count_private=true&theme=dracula" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkunnnn&hide=Java" align="left">
 
-[twitter]:(https://twitter.com/KonakOrkun){:target="_blank"}
-[linkedin]:(https://www.linkedin.com/in/orkunkonak/){:target="_blank"}
+[twitter]:https://twitter.com/KonakOrkun
+[linkedin]:https://www.linkedin.com/in/orkunkonak/
 <!--
 **Orkunnnn/Orkunnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
