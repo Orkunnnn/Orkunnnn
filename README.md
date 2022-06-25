@@ -1,20 +1,23 @@
+<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47j4tt9z58gihc3bvjpg5j7c4og2eoa9n49ncoa0so&rid=giphy.gif&ct=g">
+
 ### Hi 👋 I'm Orkun.
 ### I :heart: Coding
-<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47j4tt9z58gihc3bvjpg5j7c4og2eoa9n49ncoa0so&rid=giphy.gif&ct=g">
+
 
 ### Reach out to me
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />
 ][twitter]
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
 ][linkedin]
+<br>
 
 ### Technologies that I use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=25 height=25>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=25 height=25>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=25 height=25>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=25 height=25>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=25 height=25>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=25 height=25>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=25 height=25 align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=25 height=25 align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=25 height=25 align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=25 height=25 align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=25 height=25 align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=25 height=25 align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Orkunnnn&show_icons=true&count_private=true&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkunnnn&hide=Java">
 
