@@ -5,7 +5,7 @@
 
 
 ### Reach out to me
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" target="_blank"/>
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg"/>
 ][twitter]
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
 ][linkedin]
