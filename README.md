@@ -5,10 +5,10 @@
 
 
 ### Reach out to me
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />
-][twitter]{:target="_blank"}
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" target="_blank"/>
+][twitter]
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
-][linkedin]{:target="_blank"}
+][linkedin]
 <br>
 
 ### Technologies that I use
