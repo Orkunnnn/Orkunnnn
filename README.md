@@ -5,9 +5,9 @@
 
 
 ### Reach out to me
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg"/>
+[<img height="22" width="22" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>
 ][twitter]
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
+[<img height="22" width="22" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657976865~hmac=38498950c9eb12c1808490170260a619" />
 ][linkedin]
 <br>
 
